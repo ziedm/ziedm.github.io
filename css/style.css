@@ -1696,5 +1696,9 @@ section.padding-60 {
     margin-top: 50px !important;
   }
 }
-
+@media (min-width:768px){
+ #contact .col-md-12.mb-4.mb-md-0{
+   dispaly:inline-flex;
+  }
+}
 /*# sourceMappingURL=style.css.map */
